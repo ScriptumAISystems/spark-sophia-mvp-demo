@@ -1,0 +1,12 @@
+{
+  "status": {
+    "cpu": 42,
+    "memory": "1.2GB",
+    "uptime": "3h21m"
+  },
+  "mood": {
+    "level": "😊",
+    "description": "Motivated"
+  },
+  "chat": []
+}
