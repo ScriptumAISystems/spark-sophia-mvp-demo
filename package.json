@@ -1,0 +1,10 @@
+{
+  "name": "spark-sophia-mvp-demo",
+  "version": "0.1.0",
+  "scripts": {
+    "mock-api": "json-server --watch db.json --port 4000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
